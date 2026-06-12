@@ -11,7 +11,7 @@ public class OperadoresAtribuicao {
 		int numero5 = 4;
 		
 		System.out.println("Atribuição com Soma" + (numero1 = 2));
-		System.out.println("Atribuição com Subtração" + (numero3 -= 2));
+		System.out.println("Atribuição com Subtração" + (numero2 -= 2));
 		System.out.println("Atribuição com Multiplicação" + (numero4 *= 2));
 		System.out.println("Atribuição com Divisão" + (numero4 /= 2));
 		System.out.println("Atribuição com Módulo" + (numero5 %=  2));
