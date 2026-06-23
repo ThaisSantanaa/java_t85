@@ -14,7 +14,7 @@ public class PlanoSaudeCase {
 		System.out.println("Digite o seu nome: ");
 		nome = leia.next();
 		
-		System.out.println("****************************************");
+		
 		System.out.println("***********FAIXA ETARIA*****************");
 		System.out.println("****************************************");
 		System.out.println("      1 -  0 - 10 anos de idade         ");
